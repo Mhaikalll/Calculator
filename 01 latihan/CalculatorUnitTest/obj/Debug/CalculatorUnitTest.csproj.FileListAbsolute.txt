@@ -1,0 +1,11 @@
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.dll
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.dll
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.pdb
+E:\4827\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.xml
+E:\4827\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojAssemblyReference.cache
+E:\4827\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+E:\4827\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CopyComplete
+E:\4827\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+E:\4827\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
